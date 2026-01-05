@@ -5,7 +5,7 @@ The maze is modeled as a graph, and ghost movement is driven by shortest-path al
 
 ---
 
-## 🎮 Features
+## Features
 
 - Interactive Pac-Man gameplay
 - Graph-based maze representation
@@ -21,7 +21,7 @@ The maze is modeled as a graph, and ghost movement is driven by shortest-path al
 
 ---
 
-## 🧠 Project Structure
+## Project Structure
 
 ```text
 .
